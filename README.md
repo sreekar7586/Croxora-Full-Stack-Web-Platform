@@ -353,10 +353,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Croxora Team**
+**Sreekar**
+- GitHub: [@sreekar7586](https://github.com/sreekar7586)
+- Project: [Croxora](https://github.com/sreekar7586/Croxora-Full-Stack-Web-Platform)
 - Since September 2025
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [your-portfolio-url](https://your-portfolio.com)
 
 ## 🙏 Acknowledgments
 
@@ -373,9 +373,9 @@ This project is licensed under the MIT License.
 
 ## 🔗 Links
 
+- **GitHub Repository:** [Croxora-Full-Stack-Web-Platform](https://github.com/sreekar7586/Croxora-Full-Stack-Web-Platform)
 - **Documentation:** [Setup Guide](./SETUP.md)
-- **GitHub Upload Guide:** [GitHub Guide](./GITHUB_UPLOAD.md)
-- **Live Demo:** Coming soon
+- **Upload Guide:** [GitHub Guide](./GITHUB_UPLOAD.md)
 
 ## ⭐ Show Your Support
 
